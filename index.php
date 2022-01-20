@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+     <head>
+         <meta charset="utf-8">
+          <title>TRAVEL AGENCY</title>
+          <meta name='viewport' content='width=device-width, initial-scale=1'>
+          <link rel='stylesheet' href='boot/bootstrap.css'>
+          <link rel="preconnect" href="https://fonts.gstatic.com">
+          <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+          <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+          <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+          
+          <link rel='stylesheet' href='wpstylesheet.css'>
+     </head>
+     <body>
+          
+          
+       <div id='nav'>
+         <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+  <div class="container  menu">
+    <a class="navbar-brand" href="#"> <img src="image/cropped-Logo.png" alt="LOGO of WPLION" width="160" height="30"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Accueil</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Notre offre</a>
+           </li>
+            <li class="nav-item">
+          <a class="nav-link" href="#">Comment ça marche ?</a>
+           </li>
+            <li class="nav-item">
+          <a class="nav-link" href="#">Performance & Sécurité</a>
+           </li>
+            <li class="nav-item">
+          <a class="nav-link" href="#">Support</a>
+           </li>
+            <li class="nav-item">
+          <a class="nav-link" href="#">Blog</a>
+           </li>
+            <li class="nav-item">
+          <a class="nav-link" href="#"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+                         <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+                           </svg>Espace client</a>
+           </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+          </div>
+          
+          
+          
+            <section id='descrpt'>
+          <div class='container'>
+               <div class='row'>
+               <div class='col-xs-12 col-sm-6 text-center home' data-aos="fade-right">
+                     <h1>
+                     <p><span>Wordpress</span>, c’est le CMS le plus populaire au monde mais aussi <span>le moins bien hébergé !</span></p>
+                     <a href="#" class="botton-1">Notre offre d'hébergement managé</a>
+                     </h1>
+               </div>
+               <div class='col-xs-12 col-sm-6 text-center'> 
+                    <img src="image/wp_picto.png" width="380px" >
+                    </div>
+               </div>
+                 </div>
+          </section>
+          
+          
+          
+          
+           <section id="hebergement">
+                <h2>De l’hébergement WordPress dédié <br> et managé sur cloud VPS !</h2>
+                    <div class='border'></div>
+                 <div class='container'>
+                      
+               <div class='row row-offre'>
+                    
+               <div class='col-xs-12 col-md-4 img-container'>
+                  <img src="image/heberg-article1.png" data-aos="fade-right">
+               </div>
+               <div class='col-xs-12 col-md-8'>
+                     <div class="heberg" id="article1" data-aos="fade-left">
+                    <h4>Offre managée</h4>
+                <p>Une offre managée permet de ne plus perdre de temps avec son hébergement web et les problèmes d'évolution de la pile web. WPLion configure votre cloud VPS afin de l’optimiser pour WordPress et assure sa performance et la mise en sécurité tant que vous êtes client.</p>
+                </div>
+                    </div>
+               <div class='container'>
+               <div class='row'>
+               <div class='col-xs-12 col-md-8 col-md-push-4 aos-init aos-animate'>  
+                    <div class="heberg" data-aos="fade-right">
+                     <h4>Ressources dédiées</h4>
+                <p>Avec WPLion, pas de ressources mutualisées, pas de partage d’espaces d'hébergement ! Nous ne proposons que des offres avec des ressources dédiées, et ce dans le but d’accroître la sécurité et les performances de votre hébergement.</p>
+                    </div>
+                    </div>
+                    <div class='col-xs-12 col-md-4 img-container order-first order-md-2'> 
+                         <img src="image/heberg-article2.png" data-aos="fade-left">
+                    </div>
+                    </div>
+                    </div>
+                      </div>
+                </div>
+          </section>
+          
+          
+          <section id="quote">
+               <div class='container'>
+               <div class='row'>
+                    <div class='col-xs-12 col-sm-10 col-sm-offset-1 s-quote'>
+                     <div class="quote">
+            <p>Les offres WPLion répondent aux besoins des clients qui n'ont ni les connaissances ni le temps de pouvoir héberger leurs WordPress sur des ressources dédiées. Je propose à mes clients d’héberger leurs sites web et tout autre support WordPress sur nos clouds VPS. Choisir WPLion, c'est choisir la sécurité et la performance pour son hébergement web !</p>
+            </div>
+            <span class="spanquote">Dylan, Directeur WPLION</span>
+                    </div>
+        </div>
+                    </div>
+               
+          </section>
+          
+          
+          
+          <section id='raisons' style= 'margin-bottom: 103px;'>
+               <h2>Pourquoi choisir WPLION ?</h2>
+                    <div class='border'></div>
+          <div class='container wp-container'>
+               <div class='row align-items-start'>
+               <div class='col-xs-12 col-md-4 text-center item' data-aos="fade-up">
+                     <img src="image/raisons-article1.png">
+                <h4>Sauvegarde</h4>
+                <p>Les données de votre WordPress sont précieuses, d’autant qu’elles évoluent au gré de vos mises à jour. La sauvegarde est le seul moyen, en cas de grosse panne, de récupérer votre site web. C’est pourquoi, WPLion assure des sauvegardes automatiques toutes les nuits de votre site web.</p>
+                    </div>
+                    <div class='col-xs-12 col-md-4 text-center item' data-aos="fade-up">
+                    <img src="image/raisons-article2.png">
+                 <h4>Support expert</h4>
+                <p>Un support technique c’est pas mal, un support compétent c’est mieux, un support humain, disponible et expert c’est encore mieux ! WPLion s’engage à faire le maximum pour traiter le plus rapidement possible et précisément les questions de ses clients.</p>
+                    </div>
+                    <div class='col-xs-12 col-md-4 text-center item' data-aos="fade-up">
+                    <img src="image/raisons-article3.png">
+                 <h4>Hébergement français</h4>
+                <p>Nous tenons à garder notre propre matériel et infrastructure afin de ne pas être dépendant de différents prestataires. C’est pourquoi, nous n’avons gardé qu’un seul et unique intermédiaire, notre opérateur internet. Tous nos équipements sont hébergés à 100% en France.</p>
+                    </div>
+                    </div>
+               </div>
+               
+          </section>
+          
+          
+          
+          
+          <section id="Temoignages">
+               <h2>Témoignages</h2>
+                    <div class='border'></div>
+               <div class='container wp-container'>
+               <div class='row align-items-start'>
+               <div class='col-xs-12 col-md-6 text-center temoin'>
+               <img src="image/quotes.png">
+                        <p> J'ai trouvé Dylan suite à un article paru dans l'Est Républicain. Je suis content du très beau site qui a été créé et des mots-clés bien définis, j'ai même eu de nouveaux clients. Dylan est patient et pédagogique. Au niveau de l'hébergement, mon site est performant.</p>
+                        <a href="#">Who's Yan , Refonte du site web + Hébergement web</a>
+                        
+               </div>
+               <div class='col-xs-12 col-md-6 text-center temoin'>
+                    <img src="image/quotes.png">
+                        <p> J’ai fait appel à WPLion car j'étais sous Blogger et je voulais passer vers un blog plus professionnel. Je ne savais pas trop comment faire le transfert et gérer un WordPress. Je suis très satisfaite du travail qui a été effectué. Depuis, je ne m'occupe de rien et ça me va très bien.</p>
+                        <a href="#">Mademoizelle Hope, Transfert + Hébergement web</a>
+                        
+                    </div>
+                    </div>
+               </div>
+          </section>   
+          
+          
+          
+          <footer>
+               <div class='footer1'>
+               <div class='container'>
+               <div class='row align-items-start'>
+               <div class='col-xs-12 col-md-6 text-center'>
+                    <img src="image/contact.png">
+                    </div>
+                     <div class='col-xs-12 col-md-6  contact'>
+                      <h3>Nous sommes là pour vous</h3>
+                    <p>Une question, un besoin en hébergement managé... N'attendez plus !</p>
+                    <a href="#" class="botton-2">Découvrir notre offre</a>
+                    <a href="#" class="botton-3">Contactez l'équipe</a>
+                               
+                          </div>
+                    </div>
+                    </div>
+               </div>
+               
+               <div class="border"></div>
+               
+                <div class='container'>
+               <div class='row'>
+               <div class='col-xs-12 col-md-4 text-center logo'>
+                    <img src="image/footer-logo.png">
+                    </div>
+                    <div class='col-xs-12 col-md-4 text-center block'>
+                    <img src="image/france-flag.png">
+                    <a href="hello@wplion.com"> hello@wplion.com</a>
+                    </div>
+                     
+                     <div class='col-xs-12 col-md-4 text-center'>
+                <div class="fabootstrp">
+                <i href="#" class="fa fa-twitter"></i>
+                <i href="#" class="fa fa-facebook"></i>
+                <i href="#" class="fa fa-linkedin"></i>
+           
+            </div>
+                     </div>
+                     </div>
+               </div>
+                <div class="border"></div>
+               
+               <div class='container p'>
+               <div class='row align-items-start'>
+               <div class='col-xs-12 col-md-6'>
+                    <div class="links">
+                     <ul>
+                    <li>© WPLION 2019</li>
+                    <li><a href="#">MENTIONS </a></li>
+                    <li><a href="#">CGV-CGU </a></li>
+                    <li><a href="#">POLITIQUE DE CONFIDENTIALITÉ</a></li>
+                </ul>
+                    </div>
+                    </div>
+                    <div class='col-xs-12 col-md-6 text-right'>
+                    <div class="fter">Prix TTC - TVA non applicable, art. 293 B du CGI</div>
+                    </div>
+                    </div>
+               </div>
+
+          </footer>
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+           <script>
+         AOS.init();
+    </script>
+          <script src='boot/jquery-3.6.0.min.js'></script>
+          <script src='boot/bootstrap.min.js'></script>
+     </body>
+</html>
